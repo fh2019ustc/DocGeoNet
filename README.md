@@ -5,7 +5,8 @@
 
 
 # DocGeoNet
-
+> [Geometric Representation Learning for Document Image Rectification](https://arxiv.org/pdf/2210.08161.pdf)  
+> ECCV 2022
 
 Any questions or discussions are welcomed!
 
