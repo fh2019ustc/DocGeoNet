@@ -42,7 +42,7 @@ Any questions or discussions are welcomed!
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
-@inproceedings{feng2021doctr,
+@inproceedings{feng2022docgeonet,
   title={Geometric Representation Learning for Document Image Rectification},
   author={Feng, Hao and Zhou, Wengang and Deng, Jiajun and Wang, Yuechen and Li, Houqiang},
   booktitle={Proceedings of the European Conference on Computer Vision},
