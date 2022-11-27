@@ -55,6 +55,16 @@ If you find this code useful for your research, please use the following BibTeX 
 ```
 
 ```
+@inproceedings{feng2021doctr,
+  title={DocTr: Document Image Transformer for Geometric Unwarping and Illumination Correction},
+  author={Feng, Hao and Wang, Yuechen and Zhou, Wengang and Deng, Jiajun and Li, Houqiang},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  pages={273--281},
+  year={2021}
+}
+```
+
+```
 @article{feng2021docscanner,
   title={DocScanner: Robust Document Image Rectification with Progressive Learning},
   author={Feng, Hao and Zhou, Wengang and Deng, Jiajun and Tian, Qi and Li, Houqiang},
