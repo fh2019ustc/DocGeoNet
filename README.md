@@ -1,3 +1,5 @@
+🚀 **Exciting update! We have created a demo for our paper on Hugging Face Spaces, showcasing the capabilities of our DocTr. [Check it out here!](https://huggingface.co/spaces/HaoFeng2019/DocGeoNet)**
+
 🔥 **Good news! Our new work [DocTr++: Deep Unrestricted Document Image Rectification](https://github.com/fh2019ustc/DocTr-Plus) comes out, capable of rectifying various distorted document images in the wild.**
 
 🔥 **Good news! Our new work exhibits state-of-the-art performances on the [DocUNet Benchmark](https://www3.cs.stonybrook.edu/~cvl/docunet.html) dataset:
@@ -11,6 +13,15 @@
 > ECCV 2022
 
 Any questions or discussions are welcomed!
+
+
+## 🚀 Demo [(Link)](https://huggingface.co/spaces/HaoFeng2019/DocGeoNet)
+1. Upload the distorted document image to be rectified in the left box.
+2. Click the "Submit" button.
+3. The rectified image will be displayed in the right box.
+4. Our demo environment is based on a CPU infrastructure, and due to image transmission over the network, some display latency may be experienced.
+
+![image](https://github.com/fh2019ustc/DocGeoNet/assets/50725551/56e1742c-35c2-4dab-b965-5aa42c21c4c3)
 
 
 ## Training
