@@ -9,6 +9,12 @@
 
 
 # DocGeoNet
+
+<p>
+    <a href='https://arxiv.org/pdf/2210.08161.pdf' target="_blank"><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://huggingface.co/spaces/HaoFeng2019/DocGeoNet' target="_blank"><img src='https://img.shields.io/badge/Online-Demo-green'></a>
+</p>
+
 > [**Geometric Representation Learning for Document Image Rectification**](https://arxiv.org/pdf/2210.08161.pdf)  
 > ECCV 2022
 
