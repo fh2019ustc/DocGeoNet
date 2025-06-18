@@ -85,10 +85,11 @@ If you find this code useful for your research, please use the following BibTeX 
 ```
 
 ```
-@article{feng2021docscanner,
-  title={DocScanner: Robust Document Image Rectification with Progressive Learning},
+@article{feng2025docscanner,
+  title={DocScanner: Robust document image rectification with progressive learning},
   author={Feng, Hao and Zhou, Wengang and Deng, Jiajun and Tian, Qi and Li, Houqiang},
-  journal={International Journal of Computer Vision (IJCV)},
+  journal={International Journal of Computer Vision},
+  pages={1--20},
   year={2025}
 }
 ```
