@@ -66,10 +66,11 @@ Note that in different operating systems, the calculated performance has slight 
 If you find this code useful for your research, please use the following BibTeX entry.
 
 ```
-@inproceedings{feng2022docgeonet,
-  title={Geometric Representation Learning for Document Image Rectification},
+@inproceedings{feng2022geometric,
+  title={Geometric representation learning for document image rectification},
   author={Feng, Hao and Zhou, Wengang and Deng, Jiajun and Wang, Yuechen and Li, Houqiang},
-  booktitle={Proceedings of the European Conference on Computer Vision},
+  booktitle={European Conference on Computer Vision},
+  pages={475--492},
   year={2022}
 }
 ```
